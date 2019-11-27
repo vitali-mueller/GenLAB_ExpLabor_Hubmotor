@@ -6,4 +6,4 @@ Es wird jeweils nur einem Mitglied der Gruppe Schreibzugriff gewährt. Es sollte
 
 Nach der Registrierung senden Sie bitte den Benutzernamen an 
 ferhat.aslan@hs-karlsruhe.de 
-(mit Betreff: Github-Schreibrechte), um Schreibrechte erhalten zu können. 
+(mit Betreff: Github-Schreibrechte), um Schreibrechte erhalten zu können.
